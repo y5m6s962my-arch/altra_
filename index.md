@@ -1,7 +1,13 @@
 
+---
+description: Premium unlocks and exclusive access
+---
+
 # Welcome to Altra Experiences Uncopylocks
 
 By 🔵 **OneVend**
+
+**[🌐 Website](https://altra.com) • [💬 Discord](https://discord.gg/altra) • [🛠️ Support](https://support.altra.com)**
 
 ---
 
@@ -18,10 +24,3 @@ You can browse our documentation, find answers to common questions, and access d
 > [!WARNING]
 > **Before accessing our services...**
 > Be sure to check out our [Terms of Use](/terms-of-use/) before using any of our products.
-
----
-
-## Quick Links
-
-- [FAQ](/faq/)
-- [Terms of Use](/terms-of-use/)
