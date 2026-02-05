@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+❓ Get answers to common questions about Altra Experiences.
+
 ## General Questions
 
 ### What is Altra Experiences?

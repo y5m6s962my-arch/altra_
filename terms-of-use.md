@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last Updated: February 5, 2026**
+📋 **Last Updated: February 5, 2026**
 
 ## 1. Acceptance of Terms
 
