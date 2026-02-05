@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-By ![Image](../static/onevend.png) OneVend
+By ![Image](../static/onevend.svg) OneVend
 
 Get answers to common questions about Altra Experiences.
 

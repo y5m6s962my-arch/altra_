@@ -4,7 +4,8 @@ url: y5m6s962my-arch.github.io/altra_/
 
 branding:
   title: Altra
-  baseColor: "#5495f1"
+  baseColor: "#17307a"
+  logo: static/logo.svg
 
 links:
   - text: Website
@@ -33,9 +34,26 @@ navigation:
 
 footer:
   copyright: "© 2026 Altra Experiences & Contributors."
+  links:
+    - text: Axon Portal
+      link: https://axon.whitehill.group/
+    - text: Status
+      link: https://status.whitehill.group/
 
+# Force dark scheme to match Whitehill
 scheme:
   mode: dark
+
+# Theme variables (Pro features honored by Retype build if available)
+theme:
+  base:
+    base-color: "#17307a"
+    primary: "#2a4bd7"
+    base-bg: "#0f1216"
+    nav-item-text-active-weight: 700
+  dark:
+    base-color: "#2a4bd7"
+    base-bg: "#0b0c0e"
 
 poweredByRetype: false
 

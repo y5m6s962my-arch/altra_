@@ -1,8 +1,10 @@
 # Terms of Use
 
-By ![Image](../static/onevend.png) OneVend
+By ![Image](../static/onevend.svg) OneVend
 
 What you can, and what you can't.
+
+<img src="/altra_/static/banner.svg" alt="banner" style="width:100%;max-width:1000px;border-radius:14px;margin-top:24px;margin-bottom:28px;" />
 
 ## 1. Acceptance of Terms
 

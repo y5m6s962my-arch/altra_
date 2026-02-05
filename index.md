@@ -1,7 +1,9 @@
 
 # Welcome to Altra Experiences
 
-By ![Image](static/onevend.png) OneVend
+By ![Image](static/onevend.svg) OneVend
+
+<img src="/altra_/static/banner.svg" alt="banner" style="width:100%;max-width:1000px;border-radius:14px;margin-top:24px;margin-bottom:28px;" />
 
 Altra Experiences provides resources to help you access premium unlocks and exclusive content. You can browse our documentation, find answers to common questions, and access detailed information, all organized for clarity and ease of navigation.
 
