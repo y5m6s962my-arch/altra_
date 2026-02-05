@@ -1,0 +1,37 @@
+/* Custom Whitehill-like overrides */
+:root{
+  --wh-bg:#0b0c0e;
+  --wh-panel:#151617;
+  --wh-accent:#2a4bd7;
+  --wh-muted:#9aa3ad;
+  --wh-text:#e6eefb;
+}
+body, #retype-app{background:var(--wh-bg)!important;color:var(--wh-text)!important}
+/* Heading styles */
+.retype-app h1{font-size:48px;line-height:1.05;margin:0 0 18px;font-weight:700}
+.retype-app h2{font-size:22px}
+/* Byline */
+.wh-byline{display:flex;align-items:center;gap:12px;margin-top:6px;margin-bottom:18px}
+.wh-byline .by{color:var(--wh-muted);font-weight:500}
+.wh-byline .name{color:var(--wh-text);font-weight:700}
+.wh-byline img{width:36px;height:36px;border-radius:999px;display:block}
+/* Banner */
+.wh-banner{margin:24px 0 28px}
+.wh-banner img{width:100%;max-width:1000px;border-radius:14px;display:block}
+/* Callout / Warning */
+.retype-callout, .panel, blockquote{background:linear-gradient(90deg,#121214, #161617);border-left:4px solid #d94b4b;padding:16px;border-radius:8px;color:var(--wh-text)}
+.panel--warning{border-left-color:#d94b4b}
+/* Sidebar tweaks */
+#retype-sidebar{background:#070708}
+.retype-sidebar .retype-sidebar-filter input{background:#0f1113;color:var(--wh-text)}
+.retype-sidebar .nav a{color:var(--wh-muted)}
+.retype-sidebar .nav a.active, .retype-sidebar .nav a:hover{color:var(--wh-text);background:rgba(255,255,255,0.02)}
+/* Top links */
+#retype-header nav a{color:var(--wh-accent)}
+#retype-header nav a svg{opacity:0.95}
+/* Next/Prev card */
+.retype-nextprev{background:#0f1113;border-radius:10px;border:1px solid rgba(255,255,255,0.04);padding:18px}
+/* Misc */
+a{color:var(--wh-accent)}
+/* Ensure images are crisp */
+img{image-rendering:optimizeQuality}

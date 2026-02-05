@@ -1,9 +1,11 @@
+<link rel="stylesheet" href="/altra_/static/custom.css">
+
 # Frequently Asked Questions
 
-<div style="display:flex;align-items:center;gap:12px;margin-top:6px;margin-bottom:18px;">
-	<span style="color:#9aa3ad;font-weight:500">By</span>
-	<img src="/altra_/static/onevend.svg" alt="OneVend" style="width:32px;height:32px;border-radius:999px;"/>
-	<span style="color:#ffffff;font-weight:700">OneVend</span>
+<div class="wh-byline">
+	<span class="by">By</span>
+	<img src="/altra_/static/onevend.svg" alt="OneVend"/>
+	<span class="name">OneVend</span>
 </div>
 
 Get answers to common questions about Altra Experiences.
