@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://y5m6s962my-arch.github.io/altra_/sitemap.xml.gz
