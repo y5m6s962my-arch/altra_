@@ -2,44 +2,42 @@
 
 Get started with Altra Experiences in just a few simple steps.
 
+> [!WARNING]
+> Make sure to verify your email before accessing premium features.
+
 ## Step 1: Create Your Account
 
-Sign up for a free Altra Experiences account to access all features:
+Sign up for a free Altra Experiences account:
 
-1. Visit our main website
+1. Visit https://altra.com
 2. Click "Sign Up"
 3. Enter your email and create a password
 4. Verify your email address
 
-## Step 2: Setup Your Profile
+## Step 2: Complete Your Profile
 
-Personalize your experience by completing your profile:
+Personalize your account:
 
-- Add a profile picture
+- Add your information
 - Set your preferences
-- Enable notifications
-- Connect your devices
+- Enable security features
 
-## Step 3: Explore Features
-
-Start discovering what Altra has to offer:
+## Step 3: Start Using Altra
 
 - Browse available unlocks
 - Access exclusive content
-- Connect with our community
-- Customize your settings
+- Manage your settings
 
-## Key Features
+> [!TIP]
+> You're ready to go! Explore our features now.
 
-- **Instant Access** - Get immediate access to unlocked content
-- **Secure** - Your data is encrypted and protected
-- **24/7 Support** - Our team is always available
-- **Premium Quality** - High-quality unlock experiences
+## Key Benefits
+
+- **Instant Access** - Get immediate access to content
+- **Secure** - Encrypted and protected
+- **24/7 Support** - Always here to help
+- **Premium Quality** - High-quality experiences
 
 ## Need Help?
 
-Check out our [FAQ](/faq/) or contact support.
-
-## What's Next?
-
-Explore our [features page](/features/) to learn more about everything we offer.
+Visit our [FAQ](/faq/) for answers or contact support@altra.com
