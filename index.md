@@ -1,6 +1,10 @@
 
 # Welcome to Altra Experiences Uncopylocks
 
+**By OneVend**
+
+---
+
 Altra Experiences provides premium unlock solutions and exclusive access to content.
 
 ---
