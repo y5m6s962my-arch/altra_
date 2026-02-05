@@ -22,10 +22,32 @@ body, #retype-app{background:var(--wh-bg)!important;color:var(--wh-text)!importa
 .retype-callout, .panel, blockquote{background:linear-gradient(90deg,#121214, #161617);border-left:4px solid #d94b4b;padding:16px;border-radius:8px;color:var(--wh-text)}
 .panel--warning{border-left-color:#d94b4b}
 /* Sidebar tweaks */
-#retype-sidebar{background:#070708}
-.retype-sidebar .retype-sidebar-filter input{background:#0f1113;color:var(--wh-text)}
-.retype-sidebar .nav a{color:var(--wh-muted)}
-.retype-sidebar .nav a.active, .retype-sidebar .nav a:hover{color:var(--wh-text);background:rgba(255,255,255,0.02)}
+/* Sidebar / navigation - closer to Whitehill */
+#retype-sidebar{background:#070708;padding-top:18px}
+.retype-sidebar .retype-sidebar-header{padding:12px 18px 6px}
+.retype-branding-logo img{height:36px;display:block}
+
+.retype-sidebar .retype-sidebar-filter{padding:10px 16px}
+.retype-sidebar .retype-sidebar-filter input{
+  background:transparent;border:1px solid rgba(42,75,215,0.18);color:var(--wh-text);
+  padding:12px 14px;border-radius:12px;outline:none;box-shadow:none;width:100%;
+}
+.retype-sidebar .retype-sidebar-filter input::placeholder{color:rgba(154,163,173,0.9)}
+
+/* Nav items */
+.retype-sidebar .nav a{color:var(--wh-muted);display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:10px;margin:6px 8px}
+.retype-sidebar .nav a .icon{opacity:0.95}
+.retype-sidebar .nav a.active, .retype-sidebar .nav a:hover{color:var(--wh-accent);background:rgba(42,75,215,0.06)}
+
+/* Active item left indicator like Whitehill */
+.retype-sidebar .nav a.active{box-shadow:inset 4px 0 0 var(--wh-accent);padding-left:10px}
+
+/* Folder chevrons / right arrows */
+.retype-sidebar .nav a .chevron{margin-left:auto;opacity:0.7}
+
+/* Larger icon & font sizing in sidebar to match screenshot */
+.retype-sidebar .nav a .icon svg{width:20px;height:20px}
+.retype-sidebar .nav a{font-size:18px}
 /* Top links */
 #retype-header nav a{color:var(--wh-accent)}
 #retype-header nav a svg{opacity:0.95}
