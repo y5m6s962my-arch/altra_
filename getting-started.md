@@ -38,8 +38,8 @@ Start discovering what Altra has to offer:
 
 ## Need Help?
 
-Check out our [FAQ](faq.md) or contact support.
+Check out our [FAQ](/faq/) or contact support.
 
 ## What's Next?
 
-Explore our [features page](features.md) to learn more about everything we offer.
+Explore our [features page](/features/) to learn more about everything we offer.

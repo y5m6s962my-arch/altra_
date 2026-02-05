@@ -4,30 +4,24 @@ url: y5m6s962my-arch.github.io/altra_/
 
 branding:
   title: Altra Experiences
-  label: Docs
-  logo: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
+  label: Documentation
+  colors:
+    primary: '#0084FF'
+    secondary: '#1f2937'
 
 navigation:
   - file: index.md
     title: Welcome
   - separator: Getting Started
   - file: getting-started.md
-  - separator: Resources
+  - separator: Documentation
   - file: features.md
-    title: Features
   - file: faq.md
-    title: FAQ
   - separator: Legal
   - file: terms-of-use.md
-    title: Terms of Use
 
 footer:
   copyright: "© 2026 Altra Experiences. All rights reserved."
-  links:
-    - text: Privacy Policy
-      link: https://altra.com/privacy
-    - text: Contact
-      link: mailto:support@altra.com
 
 favicon: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
 
