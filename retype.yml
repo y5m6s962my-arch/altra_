@@ -4,20 +4,32 @@ url: y5m6s962my-arch.github.io/altra_/
 
 branding:
   title: Altra Experiences
+  logo: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/svg/arrow-right.svg
   colors:
     primary: '#0084FF'
 
-edit:
-  base: https://github.com/y5m6s962my-arch/altra_/blob/main
-  label: Edit
+outbound:
+  links:
+    - icon: icon-link
+      label: Website
+      link: https://altra.com
+    - icon: icon-link
+      label: Discord
+      link: https://discord.gg/altra
+    - icon: icon-link
+      label: Support
+      link: https://support.altra.com
 
 navigation:
   - file: index.md
-    title: "⭐ Welcome!"
-  - file: terms-of-use.md
-    title: "📋 Terms of Use"
+    icon: icon-home
+    title: "Welcome!"
   - file: faq.md
-    title: "❓ FAQ"
+    icon: icon-help-circle
+    title: "FAQ"
+  - file: terms-of-use.md
+    icon: icon-file-alt
+    title: "Terms of Use"
 
 footer:
   copyright: "© 2026 Altra Experiences"
