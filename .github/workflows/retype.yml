@@ -22,22 +22,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          sparse-checkout: |
-            *.md
-            retype.yml
 
       - uses: retypeapp/action-build@v3
-        with:
-          branding: false
 
       - uses: retypeapp/action-github-pages@v3
         with:
           update-branch: true
-          branch: retype
 
-      - name: Deploy to Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./.retype
-          cname: y5m6s962my-arch.github.io/altra_/
