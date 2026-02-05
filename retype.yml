@@ -4,13 +4,9 @@ url: y5m6s962my-arch.github.io/altra_/
 
 branding:
   title: Altra Experiences
-  label: Support
 
 navigation:
   - file: index.md
-    title: Welcome
-  - file: getting-started.md
-  - file: features.md
   - file: faq.md
   - file: terms-of-use.md
 
