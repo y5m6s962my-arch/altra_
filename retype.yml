@@ -5,10 +5,17 @@ url: y5m6s962my-arch.github.io/altra_/
 branding:
   title: Altra Experiences
 
+edit:
+  base: https://github.com/y5m6s962my-arch/altra_/blob/main
+  label: Edit this page
+
 navigation:
   - file: index.md
+    title: "⭐ Welcome"
   - file: faq.md
+    title: "❓ FAQ"
   - file: terms-of-use.md
+    title: "📋 Terms of Use"
 
 footer:
   copyright: "© 2026 Altra Experiences"

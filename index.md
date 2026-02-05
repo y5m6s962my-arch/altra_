@@ -3,6 +3,8 @@
 
 **By OneVend**
 
+[🌐 Website](https://altra.com) • [💬 Discord](https://discord.gg/altra) • [🛠️ Support](https://support.altra.com)
+
 ---
 
 Altra Experiences provides premium unlock solutions and exclusive access to content.
@@ -18,11 +20,11 @@ You can browse our documentation, find answers to common questions, and access o
 ---
 
 > [!NOTE]
-> **Need assistance?**  
+> 📞 **Need assistance?**  
 > Visit our [FAQ](/faq/) for help, or contact us directly for support.
 
 > [!WARNING]
-> **Before accessing our services...**  
+> ⚠️ **Before accessing our services...**  
 > Be sure to read our [Terms of Use](/terms-of-use/) before using any of our products.
 
 ---
