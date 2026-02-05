@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://example.com
+branding:
+  title: My Project Docs
+  label: Docs
+favicon: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
+
+navigation:
+  - file: index.md
+  - separator: Getting Started
+  - file: getting-started.md
+  - separator: Guide
+  - file: guide.md
+
+footer:
+  copyright: "© 2026 My Project. All rights reserved."
