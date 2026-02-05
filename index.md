@@ -1,13 +1,9 @@
 
----
-description: Premium unlocks and exclusive access
----
-
 # Welcome to Altra Experiences Uncopylocks
 
 By 🔵 **OneVend**
 
-**[🌐 Website](https://altra.com) • [💬 Discord](https://discord.gg/altra) • [🛠️ Support](https://support.altra.com)**
+[🌐 Website](https://altra.com) • [💬 Discord](https://discord.gg/altra) • [🛠️ Support](https://support.altra.com)
 
 ---
 
