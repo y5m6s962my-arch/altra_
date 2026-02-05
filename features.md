@@ -1,4 +1,4 @@
- # Features
+# Features
 
 Discover all the premium features that Altra Experiences offers.
 
@@ -46,3 +46,12 @@ Powerful features for advanced users:
 - **Automation** - Create custom workflows
 - **Reporting** - Generate detailed reports
 - **Administration** - Manage your account and settings
+
+## API Access
+
+For developers:
+
+- **REST API** - Full-featured API for integration
+- **Webhooks** - Real-time event notifications
+- **OAuth 2.0** - Secure third-party authentication
+- **Documentation** - Comprehensive API docs with examples

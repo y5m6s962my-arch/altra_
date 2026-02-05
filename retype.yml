@@ -1,17 +1,34 @@
 input: .
 output: .retype
 url: y5m6s962my-arch.github.io/altra_/
+
 branding:
-  title: My Project Docs
+  title: Altra Experiences
   label: Docs
-favicon: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
+  logo: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
 
 navigation:
   - file: index.md
+    title: Welcome
   - separator: Getting Started
   - file: getting-started.md
-  - separator: Guide
-  - file: guide.md
+  - separator: Resources
+  - file: features.md
+    title: Features
+  - file: faq.md
+    title: FAQ
+  - separator: Legal
+  - file: terms-of-use.md
+    title: Terms of Use
 
 footer:
-  copyright: "© 2026 My Project. All rights reserved."
+  copyright: "© 2026 Altra Experiences. All rights reserved."
+  links:
+    - text: Privacy Policy
+      link: https://altra.com/privacy
+    - text: Contact
+      link: mailto:support@altra.com
+
+favicon: https://cdn.jsdelivr.net/gh/retypeapp/retype-icons/png/favicon-32x32.png
+
+poweredByRetype: true
