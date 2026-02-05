@@ -1,10 +1,20 @@
 # Terms of Use
 
-By ![Image](../static/onevend.svg) OneVend
+<div style="display:flex;align-items:center;gap:12px;margin-top:6px;margin-bottom:18px;">
+	<span style="color:#9aa3ad;font-weight:500">By</span>
+	<img src="/altra_/static/onevend.svg" alt="OneVend" style="width:36px;height:36px;border-radius:999px;"/>
+	<span style="color:#ffffff;font-weight:700">OneVend</span>
+</div>
+
+<div style="margin:24px 0 28px;">
+	<img src="/altra_/static/banner.svg" alt="banner" style="width:100%;max-width:1000px;border-radius:14px;display:block;" />
+</div>
 
 What you can, and what you can't.
 
-<img src="/altra_/static/banner.svg" alt="banner" style="width:100%;max-width:1000px;border-radius:14px;margin-top:24px;margin-bottom:28px;" />
+> [!WARNING]
+> **Important Notice**
+> By buying and using our products, you agree to follow these terms. Failure to abide by these terms may result in your licence being revoked or a blacklist being issued, based on the severity of the incident.
 
 ## 1. Acceptance of Terms
 
