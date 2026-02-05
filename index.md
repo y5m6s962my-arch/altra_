@@ -1,13 +1,9 @@
 
----
-author:
-  name: OneVend
-  avatar: static/onevend.png
----
-
 # Welcome to Altra Experiences
 
-Altra Experiences provides resources to help you access premium unlocks and exclusive content. Browse our documentation, find answers to common questions, and access detailed information, all organized for clarity and ease of navigation.
+By ![Image](static/onevend.png) OneVend
+
+Altra Experiences provides resources to help you access premium unlocks and exclusive content. You can browse our documentation, find answers to common questions, and access detailed information, all organized for clarity and ease of navigation.
 
 ##### Need assistance?
 

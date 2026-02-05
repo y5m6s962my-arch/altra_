@@ -1,10 +1,6 @@
----
-author:
-  name: OneVend
-  avatar: static/onevend.png
----
-
 # Frequently Asked Questions
+
+By ![Image](../static/onevend.png) OneVend
 
 Get answers to common questions about Altra Experiences.
 

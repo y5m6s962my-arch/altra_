@@ -1,12 +1,8 @@
----
-author:
-  name: OneVend
-  avatar: static/onevend.png
----
-
 # Terms of Use
 
-**Last Updated: February 5, 2026**
+By ![Image](../static/onevend.png) OneVend
+
+What you can, and what you can't.
 
 ## 1. Acceptance of Terms
 
