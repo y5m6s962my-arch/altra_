@@ -8,6 +8,14 @@
 	<span class="name">OneVend</span>
 </div>
 
+> [!NOTE]
+> **Quick help**  
+> If your question isn't listed here, visit the specific product page in the sidebar or open a support ticket via our Discord.
+
+> [!WARNING]
+> **Before purchasing**  
+> Check product compatibility and the [Terms of Use](/terms-of-use/) — refunds may be limited.
+
 Get answers to common questions about Altra Experiences.
 
 ## General Questions

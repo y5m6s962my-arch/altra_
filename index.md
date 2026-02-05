@@ -8,9 +8,13 @@
 	<span class="name">OneVend</span>
 </div>
 
-<div class="wh-banner">
-	<img src="/altra_/static/banner.svg" alt="banner" />
-</div>
+> [!NOTE]
+> **Welcome to Altra Experiences**  
+> This site documents our premium unlocks and how to use them. Browse the sidebar for product guides, FAQs, and support resources.
+
+> [!WARNING]
+> **Before purchasing**  
+> Make sure you read the [Terms of Use](/terms-of-use/) — purchases may be final and subject to restrictions.
 
 Altra Experiences provides resources to help you access premium unlocks and exclusive content. You can browse our documentation, find answers to common questions, and access detailed information, all organized for clarity and ease of navigation.
 
