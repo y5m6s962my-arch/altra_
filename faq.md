@@ -1,6 +1,12 @@
+---
+author:
+  name: OneVend
+  avatar: static/onevend.png
+---
+
 # Frequently Asked Questions
 
-❓ Get answers to common questions about Altra Experiences.
+Get answers to common questions about Altra Experiences.
 
 ## General Questions
 

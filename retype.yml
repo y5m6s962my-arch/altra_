@@ -3,36 +3,39 @@ output: .retype
 url: y5m6s962my-arch.github.io/altra_/
 
 branding:
-  title: "🔵 Altra"
+  title: Altra
   baseColor: "#5495f1"
 
 links:
   - text: Website
     link: https://altra.com
-    icon: link-external
+    icon: globe
     target: blank
   - text: Discord
     link: https://discord.gg/altra
-    icon: link-external
+    icon: comment-discussion
     target: blank
   - text: Support
     link: https://support.altra.com
-    icon: link-external
+    icon: shield
     target: blank
 
 navigation:
   - file: index.md
-    title: "Welcome"
-    icon: home
+    title: Welcome
+    icon: star
   - file: faq.md
-    title: "FAQ"
-    icon: help
+    title: FAQ
+    icon: question
   - file: terms-of-use.md
-    title: "Terms of Use"
-    icon: shield
+    title: Terms of Use
+    icon: book
 
 footer:
-  copyright: "© 2026 Altra Experiences. By **OneVend**"
+  copyright: "© 2026 Altra Experiences & Contributors."
+
+scheme:
+  mode: dark
 
 poweredByRetype: false
 
